@@ -1,0 +1,7 @@
+{
+  "name": "Gravity",
+  "description": "An event ticketing ecosystem designed for maximum conversion and door security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
